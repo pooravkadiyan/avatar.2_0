@@ -32,13 +32,14 @@ The deaf community has long been underserved by businesses due to the difficulty
 The communication model would have two parts:
 - Understanding the input : Involves taking input in sign language and translate it into written representation of a language humans understand, preferably English. And finding relevant text around it or previous similar answers to the questions using a knowledge extraction algorithm. 
 
-- Providing relevant output : This would be done through a set of models like a "Knowledge discovery Model", text generation using a language model like GPT-3 and followed by translation of the text to sign language.
+- Providing relevant output : This would be done through a set of models like a "Knowledge discovery Model", "Response generation" based on transfer learning from language models like GPT-3 and followed by translation of the text to sign language using an "T2SL Model".
 
+![Avatar Image](https://github.com/pooravkadiyan/avatar.2_0/blob/main/idea/diagram.png)
 
 
 ## Potential Problems and Solutions
 
-- It could easily answer generic questions around the financial serives and products like "How much time does it take to get a credit card?" but resolving personal queries and processing a loan application would be difficult to accomplish with higher accuracy. : In order to solve this, we could create our own dataset annotated by humans.
+- It could easily answer generic questions around the financial services and products like "How much time does it take to get a credit card?" but resolving personal queries and processing a loan application would be difficult to accomplish with higher accuracy. : In order to solve this, we could create our own dataset annotated by humans.
 
 - Multiple ML models and processes would be part of this communication system, hence an error from a single part/model will compound in later stages and processes causing trouble : We could try training a single model in end-to-end fashion.
 
