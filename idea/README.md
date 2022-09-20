@@ -50,13 +50,14 @@ We already have a dataset of Indian Sign Language collected from institutions th
 ## Fact References
 
 [1]Muteness - Wikipedia. (2022). Retrieved 27 July 2022, from https://en.wikipedia.org/wiki/Muteness
-What percentage of world population is mute? – AnswersToAll. (2019). Retrieved 27 July 2022, from https://answer-to-all.com/technology/what-percentage-of-world-population-is-mute/
 
-[2]Deafness and hearing loss. (2021). Retrieved 27 July 2022, from https://www.who.int/news-room/fact-sheets/detail/deafness-and-hearing-loss#:~:text=Over%205%25%20of%20the%20world's,will%20have%20disabling%20hearing%20loss
+[2]What percentage of world population is mute? – AnswersToAll. (2019). Retrieved 27 July 2022, from https://answer-to-all.com/technology/what-percentage-of-world-population-is-mute/
 
-[3]Deaf-mute - Wikipedia. (2022). Retrieved 27 July 2022, from https://en.wikipedia.org/wiki/Deaf-mute
+[3]Deafness and hearing loss. (2021). Retrieved 27 July 2022, from https://www.who.int/news-room/fact-sheets/detail/deafness-and-hearing-loss#:~:text=Over%205%25%20of%20the%20world's,will%20have%20disabling%20hearing%20loss
 
-[4]With a deaf community of millions, hearing India is only just beginning to sign(2017). Retrieved 27 July 2022, from https://. theworld.org/stories/2017-01-04/deaf-community-millions-hearing-india-only-just-beginning-sign
+[4]Deaf-mute - Wikipedia. (2022). Retrieved 27 July 2022, from https://en.wikipedia.org/wiki/Deaf-mute
+
+[5]With a deaf community of millions, hearing India is only just beginning to sign(2017). Retrieved 27 July 2022, from https://theworld.org/stories/2017-01-04/deaf-community-millions-hearing-india-only-just-beginning-sign
 
 
 
